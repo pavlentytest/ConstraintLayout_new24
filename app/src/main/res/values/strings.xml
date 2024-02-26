@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="space_stations">Space Stations</string>
+    <string name="rovers">Rovers</string>
+    <string name="flights">Flights</string>
+    <string name="one_way">One Way</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+    <string name="traveller">1 Traveller</string>
+    <string name="depart">Depart</string>
+</resources>
